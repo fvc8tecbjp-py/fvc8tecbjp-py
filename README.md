@@ -1,3 +1,2 @@
 # hello! i'm fvc8tecbjp.
-<br>
-###### feel free to explore my repositories! ⚡
+##### feel free to explore my repositories! ⚡
